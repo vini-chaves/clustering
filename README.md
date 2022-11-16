@@ -11,6 +11,7 @@ Clustering ML examples (unsupervised ML)
     <li>matplotlib
     <li>scipy
     <li>statsmodels
+    <li>threadpoolctl==3.1.0
   </ul>
 
 ### Recomendation: use Anaconda python!!
